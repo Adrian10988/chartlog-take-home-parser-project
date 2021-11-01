@@ -21,7 +21,7 @@ User uploads file > code base converts stream into text > text is passed to clas
 
 You are done with the project once your code base passes all included unit tests.
 
-Please create a branch off master in this repo, give it a name, and push all your work to that branch. Once done, go ahead and email me
+Please create a fork of this project and PR it when finished. Once done, go ahead and email me
 and I will take a look.
 
 
